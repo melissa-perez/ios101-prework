@@ -22,6 +22,24 @@ https://github.com/melissa-perez/ios101-prework/assets/29667204/e7ea8ce8-3825-4a
 
 ## App Brainstorming (Step 4)
 
+## Favorite Existing Apps - List
+1. WEBTOON
+2. Discover
+3. Slack
+
+**WEBTOON**
+- Easy to scroll through comics
+- Can save favorited comics
+
+
+**Discover**
+- Really nice UI, modern and simple
+- Easy to find web actions on app
+
+**Slack**
+- Easy to switch between workspaces and messages
+- Can record and take pictures using phone to send
+
 ## Notes
 
 Describe any challenges encountered while building the app.
