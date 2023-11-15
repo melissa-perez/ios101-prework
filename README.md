@@ -31,7 +31,6 @@ https://github.com/melissa-perez/ios101-prework/assets/29667204/e7ea8ce8-3825-4a
 - Easy to scroll through comics
 - Can save favorited comics
 
-
 **Discover**
 - Really nice UI, modern and simple
 - Easy to find web actions on app
@@ -39,6 +38,11 @@ https://github.com/melissa-perez/ios101-prework/assets/29667204/e7ea8ce8-3825-4a
 **Slack**
 - Easy to switch between workspaces and messages
 - Can record and take pictures using phone to send
+
+## App Idea
+
+**Video Game List**
+- Allows users to add video games to lists and persist the information. The video game information comes from an outside API. Users are able to also input video game data from the app. There can be a metrics dashboard breaking down their gaming summary. Users can create their own profile and share their lists
 
 ## Notes
 
